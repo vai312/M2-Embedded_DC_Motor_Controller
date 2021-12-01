@@ -15,6 +15,8 @@ The main objective of this project is:
 1. It can change the speed of the motor as per the need of the application.
 2. It can change the direction of rotation of the motor as per the need of the application.
 ### Weakness
+1. It is only for a small rating of dc motor.
+2. 
 
 ### Opportunities
 
