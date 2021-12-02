@@ -1,4 +1,7 @@
 # M2-Embedded_DC_Motor_Controller
+
+cpp check  | code inspector | Build
+[![cppcheck-action](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/actions/workflows/cppcheck.yml) | ----------- | ------
 This project demonstrates how to vary the speed and change the direction of DC motor using AVR microcontroller ATmega328.
 ## Clockwise Rotation
 ![](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/blob/main/3_Implementation/simulation/clockwise%20rotation.png?raw=true)
