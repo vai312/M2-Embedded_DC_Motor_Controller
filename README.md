@@ -5,7 +5,7 @@ This project demonstrates how to vary the speed and change the direction of DC m
 
 ## Anticlockwise Rotation
 ![](![image](https://user-images.githubusercontent.com/94313273/144435766-9865039a-c2c7-4991-9fb0-0a87850a121e.png)
-)
+
 ## Stopping
 ![](https://github.com/vai312/M2-Embedded_DC_Motor_Controller/blob/main/3_Implementation/simulation/stop.png?raw=true)
 
